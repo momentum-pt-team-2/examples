@@ -1,0 +1,14 @@
+#Make a card game in Python like the card game War
+
+cards
+deck
+2 players
+
+- make a deck
+- in that deck, put 52 cards, 2 - A of each suit ❤️ ♣️ ♦️ ♠️ 
+- deal cards out to each player, one at a time until all are gone
+- players throw down top card face up 
+- if cards are the same value, 
+deal out three more cards then one more face up, compare again
+- if not the same, player with higher card value gets the pile
+- play stops when one player runs out of cards, other player wins
